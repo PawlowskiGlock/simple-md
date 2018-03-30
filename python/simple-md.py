@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-@author: PawlowskiGlock
+@author: micabo
 @date: 28.03.17
 """
 
