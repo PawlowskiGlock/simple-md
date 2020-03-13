@@ -1,2 +1,2 @@
 # simple-md
-A simple MD simulation (exercise)
+A molecular dynamcis simulation implemented as an exercise for "Algorithms and Programming in C++" at ETHZ
